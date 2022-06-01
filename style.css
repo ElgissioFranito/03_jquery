@@ -2,3 +2,21 @@ h1 {
     background-color: aquamarine;
     text-align: center;
 }
+
+p {
+    background-color: bisque;
+    font-size: large;
+    /* epaisseur des textes 'font-weight'*/
+    font-weight: 800;
+}
+
+div {
+    text-align: center;
+    position: relative;
+    width: 50%;
+}
+
+.grand {
+    font-size: 50px;
+    border: 1px solid yellow;
+}
